@@ -17,7 +17,7 @@ DEFAULT_EXCEL_CANDIDATES = [
 ]
 
 DEFAULT_SHEET_NAME = " Test cases"
-DEFAULT_FRONTEND_URL = os.getenv("FRONTEND_URL", "https://www.pixelssuite.com/chat-translator")
+DEFAULT_FRONTEND_URL = os.getenv("FRONTEND_URL", "https://www.pixelssuite.com/transliteration")
 
 DEFAULT_INPUT_COLUMN_CANDIDATES = [
     "Singlish",
